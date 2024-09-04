@@ -20,17 +20,17 @@ The tool evaluates passwords against the set criteria and assigns a strength lev
 # Installation
 * Clone the repository:
 ```
-https://github.com/sworup1999/Password_Complexity_Checker
+https://github.com/sworup1999/Password_Complexity_Checker.py
 ```
 ```
-cd password_complexity_checker
+cd password_complexity_checker.py
 ```
 * Make sure Python is installed on your system.
 
 # Usage
 * Run the script and input a password when prompted:
 ```
-python3 Password_Complexity_Checker
+python3 Password_Complexity_Checker.py
 ```
 # Example
 ```
